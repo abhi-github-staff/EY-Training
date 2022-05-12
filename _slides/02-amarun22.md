@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+Hi, this is Arun (@amarun22)
 
 ![dojocat](https://octodex.github.com/images/dojocat.jpg)
 {: .center}
